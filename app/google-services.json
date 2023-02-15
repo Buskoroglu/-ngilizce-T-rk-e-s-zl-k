@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822850012214",
+    "project_id": "sozluk-606b2",
+    "storage_bucket": "sozluk-606b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822850012214:android:f91f87150e0a08bdf94497",
+        "android_client_info": {
+          "package_name": "com.blogspot.devofandroid.sozluk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822850012214-fm3ogimq03h3vfm9ncr836t8udmdhsob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcci3GABqKHWrQUeXM_dtvimCYbhWU7rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822850012214-fm3ogimq03h3vfm9ncr836t8udmdhsob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
